@@ -1,0 +1,6 @@
+execution:
+- scenario: simple
+
+scenarios:
+  simple:
+    script: D:\apache-jmeter-5.3\bin\LoadTest.jmx
